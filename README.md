@@ -1,36 +1,46 @@
-# Calculator
- "Powerful calculator application with basic arithmetic, scientific functions, graphing, unit conversion, and statistics."
+# Scientific Calculator
 
-🧮 Calculator Repository 📊
+A comprehensive and user-friendly scientific calculator built using Python's `tkinter` library. 
 
-Welcome to the Calculator repository! This project aims to develop a versatile and user-friendly calculator application that can perform a wide range of mathematical operations. From basic arithmetic to advanced calculations, our goal is to provide a reliable tool for both everyday use and educational purposes.
+## Details
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The application is developed in Python, leveraging the power of the following modules:
+- `tkinter` - for creating the graphical user interface.
+- `math` - to provide various mathematical functions.
 
-Key Features:
+### Features
 
-🔢 Basic arithmetic operations (addition, subtraction, multiplication, division)
+- **Two Modes**: Users can switch between 'Standard' and 'Scientific' modes based on their needs.
+- **Rich Functionality**: Along with basic arithmetic, the calculator provides trigonometric, logarithmic, and other advanced mathematical functions.
+- **Interactive Interface**: The application boasts a user-friendly interface with responsive buttons and a clear display.
 
-📐 Advanced scientific functions (trigonometry, logarithms, exponentiation)
+## Getting Started
 
-📊 Graphing capabilities for visualizing functions
+1. Ensure you have Python installed on your machine.
+2. Install `tkinter` if it isn't already present.
+3. Clone the repository: `git clone <repository_url>`
+4. Navigate to the directory and run the script: `python calculator_script_name.py`
 
-🕒 Unit conversion for various measurement systems
+## How to Use
 
-📈 Statistical calculations and analysis tools
+- Launch the application.
+- For basic arithmetic, use the number buttons and basic operation keys.
+- Switch to the 'Scientific' mode for advanced mathematical operations.
+- Utilize the menu bar for options like switching between modes and exiting the application.
 
-To know more read "Calculator.pdf".
+## Screenshots
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Calculator.png](Calculator.png)
 
-Contributions are welcome! Whether you're a seasoned developer or just starting out, we invite you to join our open-source community. Let's collaborate to make this calculator the best it can be. Feel free to explore our issues and start contributing today.
+## Contributions
 
-Get started:
+Contributions, bug reports, and fixes are welcome. Please open an issue if you find a bug or have a feature request.
 
-📋 Clone the repository
+## License
 
-🛠️ Make your changes
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-📤 Create a pull request
+## Acknowledgement
 
-Let's crunch some numbers together! 🚀
+Special thanks to the Python and `tkinter` community for resources and support.
+
